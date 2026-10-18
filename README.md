@@ -1,10 +1,12 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Hi,%20I'm%20YourName&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Unity%20Developer&descAlignY=62&animation=fadeIn)
+<img width="733" height="244" alt="Banner" src="https://github.com/user-attachments/assets/371b000c-3493-4a5a-b524-af8ba7107929" />
+   <img src="banner.png" width="100%" alt="Banner">
 # Привіт 👋, я [catcapaboba]
 
 ### Unity-розробник | Роблю свою гру
 
 ## 🚀 Про мене
 Розповідаю тут коротко про себе і свою гру.
+<img width="733" height="244" alt="Banner" src="https://github.com/user-attachments/assets/371b000c-3493-4a5a-b524-af8ba7107929" />
 
 ## 🛠 Tech Stack
 ![](https://skillicons.dev/icons?i=unity,cs,git,github)
