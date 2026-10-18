@@ -6,11 +6,13 @@
 
 ## 🚀 Про мене
 
+<img align="right" width="150" alt="cat" src="https://github.com/user-attachments/assets/e7c5a4a5-592a-4afd-acbf-a701f70ea649" />
 
 Тут твій текст про себе. Він буде зліва, а картинка справа.
 
 Ще один абзац тексту, він теж обтікатиме картинку.
-<img align="right" width="200" alt="cat" src="https://github.com/user-attachments/assets/e7c5a4a5-592a-4afd-acbf-a701f70ea649" />
+
+<br clear="right">
 
 ## 🛠 Tech Stack
 ![](https://skillicons.dev/icons?i=unity,cs,git,github)
