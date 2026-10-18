@@ -10,7 +10,7 @@
 Тут твій текст про себе. Він буде зліва, а картинка справа.
 
 Ще один абзац тексту, він теж обтікатиме картинку.
-<img width="509" height="490" alt="cat" src="https://github.com/user-attachments/assets/e7c5a4a5-592a-4afd-acbf-a701f70ea649" />
+<img align="right" width="200" alt="cat" src="https://github.com/user-attachments/assets/e7c5a4a5-592a-4afd-acbf-a701f70ea649" />
 
 ## 🛠 Tech Stack
 ![](https://skillicons.dev/icons?i=unity,cs,git,github)
