@@ -1,6 +1,6 @@
 <img width="733" height="244" alt="Banner" src="https://github.com/user-attachments/assets/371b000c-3493-4a5a-b524-af8ba7107929" />
 
-# Привіт 👋, я [catcapaboba]
+# Привіт 👋, я catcapaboba
 
 ### Unity-розробник | Роблю свою гру
 
