@@ -1,21 +1,28 @@
-<img width="733" height="244" alt="Banner" src="https://github.com/user-attachments/assets/371b000c-3493-4a5a-b524-af8ba7107929" />
+# Привіт, я Роман 👋
 
-# Привіт 👋, я catcapaboba
+**Junior Unity Developer** · C# · 2D та 3D · Львів, Україна
 
-### Unity-розробник | Роблю свою гру
+Створюю 2D- та 3D-ігри в Unity: механіки геймплею, фізика, UI, збірка під Android. Закінчив школу Robocode за напрямом Game Development, вивчав інженерію програмного забезпечення. Зараз роблю власну гру й шукаю першу позицію Junior Unity Developer або trainee.
 
-## 🚀 Про мене
+## 🛠 Технології
 
-<img align="right" width="150" alt="cat" src="https://github.com/user-attachments/assets/e7c5a4a5-592a-4afd-acbf-a701f70ea649" />
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-Тут твій текст про себе. Він буде зліва, а картинка справа.
+C# — основна мова. C++, Java, HTML і CSS знаю на навчальному рівні.
 
-Ще один абзац тексту, він теж обтікатиме картинку.
+## 🎮 Проєкти
 
-<br clear="right">
+- [unity-2d-platformer](https://github.com/catcapaboba/unity-2d-platformer): навчальний 2D-платформер, рух персонажа, колізії та UI
+<!-- Коли викладеш гонку, прибери коментар і виправ посилання:
+- [2D-Race-BT-20](https://github.com/catcapaboba/2D-Race-BT-20): 2D-гра в Unity -->
 
-## 🛠 Tech Stack
-![](https://skillicons.dev/icons?i=unity,cs,git,github)
+## 📫 Контакти
 
-## 📊 GitHub Stats
-   ![Stats](https://github-readme-stats.vercel.app/api?username=catcapaboba&show_icons=true&theme=dark)
+[LinkedIn](https://www.linkedin.com/in/romansavelievdev)
