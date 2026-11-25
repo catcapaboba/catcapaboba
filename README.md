@@ -19,7 +19,7 @@ C# — основна мова. C++, Java, HTML і CSS знаю на навча�
 
 ## 🎮 Проєкти
 
-- [unity-2d-platformer]([https://github.com/catcapaboba/unity-2d-platformer]): навчальний 2D-платформер, рух персонажа, колізії та UI
+- [2D Race](2D Race BT 20): навчальний 2D-платформер, рух персонажа, колізії та UI
 <!-- Коли викладеш гонку, прибери коментар і виправ посилання:
 - [2D-Race-BT-20](https://github.com/catcapaboba/2D-Race-BT-20): 2D-гра в Unity -->
 
